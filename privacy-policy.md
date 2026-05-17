@@ -8,7 +8,7 @@ Last updated: May 17, 2026
 
 **No Accounts:** No account creation, login, or registration required.
 
-**No Advertising:** TimeTune contains no advertisements and your data is never sold or shared with advertisers.
+**No Advertising:** TimeTune contains no advertisements. User data is never sold or shared with, or used by advertisers.
 
 **No Third-Party Tracking:** We do not use any ad networks, tracking SDKs, or data brokers. PostHog receives only anonymous behavioral signals.
 
