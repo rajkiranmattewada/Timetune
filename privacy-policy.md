@@ -1,22 +1,20 @@
 # Privacy Policy for TimeTune - Learn by Listening
 
-Last updated: April 24, 2026
+Last updated: May 17, 2026
 
-TimeTune does not collect, store, transmit, or sell any personal data.
+**Data Storage:** All learning data, quiz scores, progress, and settings are stored locally on your device using Apple's SwiftData framework.
 
-**Data Storage:** All learning data, quiz scores, progress, and settings are stored locally on your device. No data ever leaves your device.
+**Anonymous Analytics:** TimeTune uses PostHog (posthog.com) to collect anonymous usage analytics. A random identifier is generated at install to deduplicate events. This identifier is not linked to your name, Apple ID, email address, or any device advertising ID (IDFA). Analytics are used solely to understand how features are used and improve the app. No personal information is transmitted.
 
 **No Accounts:** No account creation, login, or registration required.
 
-**No Analytics:** We do not use any analytics, tracking, or telemetry.
+**No Advertising:** TimeTune contains no advertisements and your data is never sold or shared with advertisers.
 
-**No Advertising:** TimeTune contains no advertisements.
+**No Third-Party Tracking:** We do not use any ad networks, tracking SDKs, or data brokers. PostHog receives only anonymous behavioral signals.
 
-**No Third-Party Services:** Core functionality requires no network connection.
+**Children's Privacy:** We do not collect any personal information from children or adults.
 
-**Children's Privacy:** We do not collect any personal information from children.
-
-**Notifications:** Local only, processed entirely on-device.
+**Notifications:** Scheduled learning reminders and re-engagement notifications are managed locally. Notification delivery is handled by Apple's notification infrastructure.
 
 **Contact:** rajkiranmattewada@gmail.com
 
